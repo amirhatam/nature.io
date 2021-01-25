@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+}
+.sky1{
+    height: 250px;
+    background-image: radial-gradient( circle,  yellow 8%,yellow -20%,#00BFFF 16%);
+}
+.sky2{
+    height: 200px;
+    background-image: linear-gradient(to right, #00BFFF, #00BFFF);
+}
+.field{
+    display: inline-flex;
+    width: 100%;
+    overflow: hidden;
+    height: 300px;
+    background-image: linear-gradient(to top, #228B22 85%, #00BFFF 90%);
+}
+.fa, .fas {
+    font-size: 5vmax;
+    color: #013d01;
+}
+section{
+    width: 45%;
+}
+
+
+.river{
+    border-radius: 20px;
+    height: 300px;
+    width: 15%;
+    margin-top: 2.2vmax;
+   text-align: center;
+    background-image: linear-gradient(to right,aqua -35%, blue 40%,aqua 175%);
+}
+.fish-c{
+    padding: 7vmax 0 0 0;
+    height: 7vmax;
+    width: 7vmax;
+    display: inline-block;
+}
+.fa-fish{
+    color: #df1f46;
+    font-size: 1vmax;
+}
+.baby-fish {
+    font-size: 0.6vmax;
+}
+
+
+
+aside{
+    width: 45%;
+
+}
+
+
+.first-c{
+    margin: 4vmax 0 0 20vmax;
+    font-size: 3vmax;
+    color:snow;
+}
+.seconde-c{
+    margin: 4vmax 0 0 0vmax;
+    font-size: 6vmax;
+    color:snow;
+}
+.third-c {
+    float: right;
+    margin-right: 9vmax;
+    font-size: 12vmax;
+    color:snow;
+}
+.fa-horse {
+    color: black;
+    font-size: 1.8vmax;
+}
+
+
+.birds-c {
+    padding: 9vmax 0 0 45vmax;
+    height: 7vmax;
+    width: 7vmax;
+}
+
+.fa-dove {
+    color: snow;
+    font-size: 1vmax;
+    margin: 1vmax;
+}
